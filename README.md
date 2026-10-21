@@ -8,7 +8,6 @@ I build things that turn messy data and manual processes into tools people actua
 - 🎓 B.Sc. Computing (AI Option), Minor in Economics, Queen's University (2024–2028)
 - 🧠 Fine-tuning transformers and exploring topic modelling on tweets ([Machine-Learning-Projects](https://github.com/yaseenmlm/Machine-Learning-Projects))
 - 📚 Building **QU Lecture Library**, a platform that turns missed lecture recordings into AI-generated notes, flashcards, and quizzes
-- 🧪 Software quality coursework ([Group12-CISC327](https://github.com/yaseenmlm/Group12-CISC327))
 
 ## 💼 Experience
 - **BMO Financial Group**, Data Analyst Intern, Audit AI & Analytics (2026): Python pipelines on AWS SageMaker, LLM workflows with AWS Bedrock, Power Platform automation
