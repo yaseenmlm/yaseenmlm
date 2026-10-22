@@ -7,6 +7,7 @@ I build things that turn messy data and manual processes into tools people actua
 ## 🔭 What I'm up to
 - 🎓 B.Sc. Computing (AI Option), Minor in Economics, Queen's University (2024–2028)
 - 🧠 Fine-tuning transformers and exploring topic modelling on tweets ([Machine-Learning-Projects](https://github.com/yaseenmlm/Machine-Learning-Projects))
+- 🩺 Built **[Clinic Intake](https://github.com/yaseenmlm/clinic-intake)**, a multilingual waiting-room intake form that gives doctors an AI-organized summary of each patient's answers
 - 📚 Building **QU Lecture Library**, a platform that turns missed lecture recordings into AI-generated notes, flashcards, and quizzes
 
 ## 💼 Experience
@@ -33,6 +34,7 @@ I build things that turn messy data and manual processes into tools people actua
 | Project | Highlights |
 |---|---|
 | [Machine-Learning-Projects](https://github.com/yaseenmlm/Machine-Learning-Projects) | **Disaster Tweet Classifier**: DistilBERT fine-tuned in PyTorch, 81.5% accuracy / 0.81 F1. **Company Tweet Topic Analyzer**: BERTopic + UMAP + HDBSCAN surfacing 58 topics from 2,000+ tweets |
+| [clinic-intake](https://github.com/yaseenmlm/clinic-intake) | **Multilingual clinic intake + AI summary**: one-question-per-screen patient form in English, French, Punjabi and Hindi, designed for elderly and low-literacy patients. The doctor gets an English summary (Gemini or Claude at temperature 0), translations of each answer, and an automated check that flags any medication name or number missing from the summary. Node.js/Express, encrypted storage with auto-deletion after 24 h |
 
 
 ## 📊 Stats
