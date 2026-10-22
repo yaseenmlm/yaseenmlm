@@ -33,7 +33,7 @@ I build things that turn messy data and manual processes into tools people actua
 | Project | Highlights |
 |---|---|
 | [Machine-Learning-Projects](https://github.com/yaseenmlm/Machine-Learning-Projects) | **Disaster Tweet Classifier**: DistilBERT fine-tuned in PyTorch, 81.5% accuracy / 0.81 F1. **Company Tweet Topic Analyzer**: BERTopic + UMAP + HDBSCAN surfacing 58 topics from 2,000+ tweets |
-| [Group12-CISC327](https://github.com/yaseenmlm/Group12-CISC327) | Team project for Queen's CISC 327 |
+
 
 ## 📊 Stats
 ![Yaseen's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaseenmlm&show_icons=true&theme=tokyonight&hide_border=true)
