@@ -79,8 +79,8 @@ Patients fill in a short form on a clinic tablet or their own phone. The doctor 
 Plain HTML/CSS/JS front end with no framework · translation files make it easy to add new languages · tested with Node's built-in test runner
 
 ## 📊 Stats
-![Yaseen's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaseenmlm&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaseenmlm&layout=compact&theme=tokyonight&hide_border=true)
+![Yaseen's GitHub stats](./stats/github-stats.svg)
+![Top languages](./stats/top-languages.svg)
 
 ## 📫 Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaseenmalam)
