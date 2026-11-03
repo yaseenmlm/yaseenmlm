@@ -14,6 +14,7 @@ permissions:
 jobs:
   stats:
     runs-on: ubuntu-latest
+    concurrency: stats
     steps:
       - uses: actions/checkout@v4
       - name: Generate stats cards
@@ -26,4 +27,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add stats
           git diff --cached --quiet || git commit -m "Update stats cards"
+          git pull --rebase
           git push
