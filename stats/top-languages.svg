@@ -2,28 +2,28 @@
   <title>Top Languages</title>
   <rect width="295" height="267" rx="6" fill="#1a1b27"/>
   <text x="25" y="35" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#70a5fd">Top Languages</text>
-  <text x="25" y="65" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#c0caf5">JavaScript</text>
-  <text x="270" y="65" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#787c99" text-anchor="end">39.3%</text>
+  <text x="25" y="65" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#c0caf5">Python</text>
+  <text x="270" y="65" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#787c99" text-anchor="end">40.6%</text>
   <rect x="25" y="71" width="245" height="6" rx="3" fill="#2a2b3d"/>
-  <rect x="25" y="71" width="96.3" height="6" rx="3" fill="#38bdae"/>
-  <text x="25" y="99" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#c0caf5">Python</text>
-  <text x="270" y="99" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#787c99" text-anchor="end">38.6%</text>
+  <rect x="25" y="71" width="99.5" height="6" rx="3" fill="#38bdae"/>
+  <text x="25" y="99" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#c0caf5">JavaScript</text>
+  <text x="270" y="99" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#787c99" text-anchor="end">31.0%</text>
   <rect x="25" y="105" width="245" height="6" rx="3" fill="#2a2b3d"/>
-  <rect x="25" y="105" width="94.6" height="6" rx="3" fill="#38bdae"/>
-  <text x="25" y="133" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#c0caf5">CSS</text>
-  <text x="270" y="133" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#787c99" text-anchor="end">10.3%</text>
+  <rect x="25" y="105" width="75.9" height="6" rx="3" fill="#38bdae"/>
+  <text x="25" y="133" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#c0caf5">HTML</text>
+  <text x="270" y="133" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#787c99" text-anchor="end">14.6%</text>
   <rect x="25" y="139" width="245" height="6" rx="3" fill="#2a2b3d"/>
-  <rect x="25" y="139" width="25.2" height="6" rx="3" fill="#38bdae"/>
-  <text x="25" y="167" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#c0caf5">Shell</text>
-  <text x="270" y="167" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#787c99" text-anchor="end">5.9%</text>
+  <rect x="25" y="139" width="35.9" height="6" rx="3" fill="#38bdae"/>
+  <text x="25" y="167" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#c0caf5">CSS</text>
+  <text x="270" y="167" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#787c99" text-anchor="end">7.7%</text>
   <rect x="25" y="173" width="245" height="6" rx="3" fill="#2a2b3d"/>
-  <rect x="25" y="173" width="14.4" height="6" rx="3" fill="#38bdae"/>
-  <text x="25" y="201" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#c0caf5">HTML</text>
-  <text x="270" y="201" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#787c99" text-anchor="end">5.0%</text>
+  <rect x="25" y="173" width="18.9" height="6" rx="3" fill="#38bdae"/>
+  <text x="25" y="201" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#c0caf5">Shell</text>
+  <text x="270" y="201" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#787c99" text-anchor="end">5.1%</text>
   <rect x="25" y="207" width="245" height="6" rx="3" fill="#2a2b3d"/>
-  <rect x="25" y="207" width="12.3" height="6" rx="3" fill="#38bdae"/>
+  <rect x="25" y="207" width="12.4" height="6" rx="3" fill="#38bdae"/>
   <text x="25" y="235" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#c0caf5">C</text>
-  <text x="270" y="235" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#787c99" text-anchor="end">0.9%</text>
+  <text x="270" y="235" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#787c99" text-anchor="end">1.0%</text>
   <rect x="25" y="241" width="245" height="6" rx="3" fill="#2a2b3d"/>
   <rect x="25" y="241" width="3.0" height="6" rx="3" fill="#38bdae"/>
 </svg>
